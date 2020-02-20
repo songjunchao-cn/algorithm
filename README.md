@@ -1,4 +1,4 @@
-# HackerNews
+#Algorithms
 
 Two algorithms of ByteArk
 
